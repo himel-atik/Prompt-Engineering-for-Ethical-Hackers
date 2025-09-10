@@ -17,7 +17,7 @@ Master Prompt Engineering for Ethical Hacking with frameworks, step-by-step guid
 
 
 
-# foundations
+# Foundations
 
 **Basics of Prompt Engineering**
 
