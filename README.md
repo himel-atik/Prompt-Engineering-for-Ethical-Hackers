@@ -29,11 +29,11 @@ A prompt is the text, question, or instruction you give to an AI model to genera
 
 **Examples of prompts:**
 
-“List the top 5 cybersecurity threats in 2025.” “Generate a phishing awareness email for employees.” “Summarize this vulnerability report in 3 bullet points.”
+`“List the top 5 cybersecurity threats in 2025.” “Generate a phishing awareness email for employees.” “Summarize this vulnerability report in 3 bullet points.”`
 
 **Prompts can also include:**
 
-Role instructions: “Act as a penetration tester…” Context: “Given a web application with login flaws…” Output format: “Provide the answer in a JSON table.”
+Role instructions: `“Act as a penetration tester…” Context: “Given a web application with login flaws…” Output format: “Provide the answer in a JSON table.”`
 
 **Accessing LLMs**
 
@@ -49,9 +49,9 @@ Before diving into advanced hacking prompts, it’s important to get hands-on wi
 
 Example 1 – Movie Recommendation Prompt: `“Recommend 5 thriller movies released in the last 5 years. Include a short 2-sentence summary for each.”`
 
-Example 2 – Training Plan Prompt: “Create a 4-week beginner workout plan for strength and endurance. Include 3 sessions per week and rest days.”
+Example 2 – Training Plan Prompt: `“Create a 4-week beginner workout plan for strength and endurance. Include 3 sessions per week and rest days.”`
 
-Example 3 – Summarizing Text Prompt: “Summarize the following text in 3 bullet points for a non-technical audience.”
+Example 3 – Summarizing Text Prompt: `“Summarize the following text in 3 bullet points for a non-technical audience.”`
 
 These examples help you understand how clarity, context, and instructions affect the AI output.
 
@@ -70,16 +70,16 @@ The most basic use of prompts is to ask for information directly. Keep your prom
 
 Examples:
 
-“List the top 5 cybersecurity threats in 2025.”
+`“List the top 5 cybersecurity threats in 2025.”`
 
-“What are the common methods of phishing attacks?”
+`“What are the common methods of phishing attacks?”`
 
-“Explain SQL injection in simple terms.”
+`“Explain SQL injection in simple terms.”`
 
 **Tips:**
 Use direct questions.
 Avoid vague terms like “Tell me something about…”
-Specify format if needed: “List as bullet points,” or “Explain in one paragraph.”
+Specify format if needed: `“List as bullet points,” or “Explain in one paragraph.”`
 
 **2. Summarizing and Structuring Information**
 
@@ -87,11 +87,11 @@ AI can help you condense long documents or organize data.
 
 **Examples:**
 
-“Summarize this vulnerability report in 5 bullet points.”
+`“Summarize this vulnerability report in 5 bullet points.”`
 
-“Convert this security policy into a checklist for employees.”
+`“Convert this security policy into a checklist for employees.”`
 
-“Summarize this incident report in a table with columns: Date, Threat, Action Taken.”
+`“Summarize this incident report in a table with columns: Date, Threat, Action Taken.”`
 
 **Tips:**
 Provide context for better summarization.
@@ -103,9 +103,9 @@ Even in cybersecurity, AI can help you create engaging content, e.g., phishing a
 
 Examples:
 
-“Write a short story about a hacker who learns ethical hacking.”
+`“Write a short story about a hacker who learns ethical hacking.”`
 
-“Generate a catchy security awareness slogan for employees.”
+`“Generate a catchy security awareness slogan for employees.”`
 
 **Tips:**
 Mention tone: formal, humorous, or serious.
@@ -117,9 +117,9 @@ You can ask AI to extract, calculate, or manipulate numbers from data.
 
 Examples:
 
-“List the top 5 countries with the highest cybercrime rates.”
+`“List the top 5 countries with the highest cybercrime rates.”`
 
-“Convert the following log times from UTC to local timezone.”
+`“Convert the following log times from UTC to local timezone.”`
 
 **Tips:**
 Clearly specify the data type and transformation rules.
@@ -131,9 +131,9 @@ LLMs can handle multiple languages. You can translate prompts or outputs or gene
 
 Examples:
 
-“Translate this cybersecurity guide into Bengali.”
+`“Translate this cybersecurity guide into Bengali.”`
 
-“Explain phishing attacks in simple Spanish.”
+`“Explain phishing attacks in simple Spanish.”`
 
 **Tips:**
 Specify language clearly.
