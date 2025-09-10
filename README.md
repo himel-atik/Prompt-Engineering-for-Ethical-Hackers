@@ -47,7 +47,7 @@ Start with free-tier web access to experiment. Later, use APIs to automate promp
 
 Before diving into advanced hacking prompts, it’s important to get hands-on with general examples:
 
-Example 1 – Movie Recommendation Prompt: “Recommend 5 thriller movies released in the last 5 years. Include a short 2-sentence summary for each.”
+Example 1 – Movie Recommendation Prompt: `“Recommend 5 thriller movies released in the last 5 years. Include a short 2-sentence summary for each.”`
 
 Example 2 – Training Plan Prompt: “Create a 4-week beginner workout plan for strength and endurance. Include 3 sessions per week and rest days.”
 
