@@ -58,3 +58,93 @@ These examples help you understand how clarity, context, and instructions affect
 **Summary**
 
 Prompt engineering is about writing clear, precise instructions for AI. A prompt is the instruction or query you give to an LLM. Start with simple examples to practice and understand how prompts affect responses. Access different LLMs (ChatGPT, Claude, Gemini) to see model-specific behavior. By mastering foundations, you’ll be ready to use prompts for ethical hacking and cybersecurity applications safely and effectively.
+
+
+# Basic-Techniques
+
+Once you understand the foundations of prompt engineering, it’s time to learn how to craft effective prompts to get accurate and actionable outputs. These are essential techniques for beginners and ethical hackers alike.
+
+**1. Simple Prompts to Obtain Information**
+
+The most basic use of prompts is to ask for information directly. Keep your prompt clear and specific.
+
+Examples:
+
+“List the top 5 cybersecurity threats in 2025.”
+
+“What are the common methods of phishing attacks?”
+
+“Explain SQL injection in simple terms.”
+
+**Tips:**
+Use direct questions.
+Avoid vague terms like “Tell me something about…”
+Specify format if needed: “List as bullet points,” or “Explain in one paragraph.”
+
+**2. Summarizing and Structuring Information**
+
+AI can help you condense long documents or organize data.
+
+**Examples:**
+
+“Summarize this vulnerability report in 5 bullet points.”
+
+“Convert this security policy into a checklist for employees.”
+
+“Summarize this incident report in a table with columns: Date, Threat, Action Taken.”
+
+**Tips:**
+Provide context for better summarization.
+Use output instructions like table, bullet points, or numbered lists.
+
+**3. Generating Artistic or Creative Text**
+
+Even in cybersecurity, AI can help you create engaging content, e.g., phishing awareness campaigns, educational content, or security posters.
+
+Examples:
+
+“Write a short story about a hacker who learns ethical hacking.”
+
+“Generate a catchy security awareness slogan for employees.”
+
+**Tips:**
+Mention tone: formal, humorous, or serious.
+Specify audience to make content relevant.
+
+**4. Seeking Numerical Data and Transforming It**
+
+You can ask AI to extract, calculate, or manipulate numbers from data.
+
+Examples:
+
+“List the top 5 countries with the highest cybercrime rates.”
+
+“Convert the following log times from UTC to local timezone.”
+
+**Tips:**
+Clearly specify the data type and transformation rules.
+Ask for structured output: table, JSON, or list.
+
+**5. Working with Different Languages**
+
+LLMs can handle multiple languages. You can translate prompts or outputs or generate content in different languages.
+
+Examples:
+
+“Translate this cybersecurity guide into Bengali.”
+
+“Explain phishing attacks in simple Spanish.”
+
+**Tips:**
+Specify language clearly.
+Provide context for better accuracy.
+
+**Summary**
+Keep prompts clear and specific.
+Use direct questions for information.
+Specify output formats.
+Use prompts creatively for education and awareness.
+
+Leverage multi-language capabilities.
+
+✅ Exercise: Try creating 5 prompts for each technique using real-life cybersecurity examples. For instance, summarize a recent vulnerability report or generate a phishing awareness slogan.
